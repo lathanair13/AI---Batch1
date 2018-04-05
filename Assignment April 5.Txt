@@ -1,0 +1,31 @@
+1. Write a python program to generate and print the armstrong numbers within the interval 1-1000.
+
+
+2. Given matrix A =[[3, 5, 6]
+		
+		    [4, 8, 10]
+		
+		    [2, 1, 8]] 
+				
+		and I = [[1, 0, 0]
+		
+			 [0, 1, 0]
+			
+			 [0, 0, 1]]
+	
+	Prove that , A = A.I
+
+
+3. Write a python program to generate a dictionary of n length and that contains (i, i*i)
+
+
+4. Write a program that accepts a sentence(with letters and digits) and calculate the number of letters and digits
+
+
+5. Create a calculator to perform the following operations,
+	
+i) find the factorial
+	ii) find LCM
+	iii) find HCM
+	iv) factor of a number
+
