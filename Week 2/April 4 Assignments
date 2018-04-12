@@ -1,0 +1,44 @@
+Reading Assignment
+
+1) Read about the different types of open source licenses and learn what are the do's and don'ts 
+of using opne source in your project
+
+2) Familiarize about 'Iris' Data set widely used for ML beginners education
+
+
+Python
+
+
+1.consider the matrix A with the values,
+	a = ([['Rhia',10,20,30,40,50],
+           ['Alan',75,80,75,85,100],
+           ['Smith',80,80,80,90,95]])
+ perform the following operations and print the resulting matrix.
+	1. slice the matrix and the output will be  
+ 	 	[['Rhia',10],
+  		['Alan',75],
+  		['Smith',80]]
+	2. update third row as ['Sam',82,79,88,97,99]
+	3. replace the 4th element of first row as 95
+	4. add a new column in this matrix with the following values, 73, 80 and 85.
+
+2. Consider the following sentence,
+
+#Python is an interpreted high level programming language for general-purpose programming*.
+
+i) remove all special characters from this.
+ii) Print all   palindromes in the sentence
+iii) print the repeating words and  number of times it repeats  
+
+3. Given two sets A and B,
+   A = {5, 3, 8, 6, 1}
+   B = {1, 5, 3, 4, 2}
+      Perform the following operations and print the resulting set,
+	i) union
+	ii) intersection
+	iii) set difference
+	iv) find maximum and the minimum value of set A and B
+
+4. Write a program to print the prime numbers in the interval 900-1000, and also find if any palindrome is in the result.
+
+
