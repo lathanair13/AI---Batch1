@@ -1,1 +1,11 @@
 
+1)Logistics – predicting the time of arrival of courier accurately based on post code, historical data on courier rounds etc.
+2)Credit Scoring -  analysis of social data to determine risk of loan defaulting
+3)Based on data in monitoring tools, logs and historical information, eliminate false positives / known errors and create tickets automatically (eliminate L1 monitoring)
+4)Identify data quality issues using ML – was already tried in Infinity Labs earlier
+5)Test suite optimization &  Predict missed test coverage
+Identifies duplicate/similar and unique test cases
+6)Identifies complex scenarios from the requirements traceability matrix (RTM) and extract keywords to predict missed test coverage
+ 
+
+ 
