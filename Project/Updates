@@ -5,8 +5,8 @@
 create tickets automatically (eliminate L1 monitoring)
 4)Identify data quality issues using ML – was already tried in Infinity Labs earlier
 5)Test suite optimization &  Predict missed test coverage
-Identifies duplicate/similar and unique test cases
-6)Identifies complex scenarios from the requirements traceability matrix (RTM) and extract keywords to predict missed 
+-Identifies duplicate/similar and unique test cases
+-Identifies complex scenarios from the requirements traceability matrix (RTM) and extract keywords to predict missed 
 test coverage
  
 
